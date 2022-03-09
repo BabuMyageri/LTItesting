@@ -1,2 +1,8 @@
 @test
-webdriver.findElemnt(By.id("Virat")).sendKeys(Virat)
+webdriver.findElemnt(By.id("Virat")).sendKeys(Virat);
+
+@test
+webdriver.findElemnt(By.id("Virat")).sendKeys(Virat);
+
+@test
+webdriver.findElemnt(By.id("Virat")).sendKeys(Virat);
